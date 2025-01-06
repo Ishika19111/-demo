@@ -1,4 +1,4 @@
 # -demo
-this is my first git repositery
+this is my first git repositery.
 <br>
-author-Ishika kale
+author-Ishika (demo)
